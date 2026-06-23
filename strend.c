@@ -35,7 +35,7 @@ int main(){
 
 	resultado = strend(pt1, pt2);
 
-	resultado == 1 ? printf("Palavra se encontra no final: " ) : printf("Palavra não se encontra no final: ");
+	resultado == 1 ? printf("Palavra se encontra no final: " ) : printf("Palavra nao se encontra no final: ");
 
 	printf("%d \n", resultado); 
 
