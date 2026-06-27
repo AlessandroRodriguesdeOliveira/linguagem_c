@@ -10,7 +10,7 @@ int main(void){
 	printf("Entre com o divisor: ");
 	scanf("%d", &divisor);
 
-	resultado = EDivisivel(numerador, divisor);
+	resultado = e_divisivel(numerador, divisor);
 
 	if(resultado){
 		printf("\nO numero e divisivel\n");
