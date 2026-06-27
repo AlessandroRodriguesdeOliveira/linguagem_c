@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int EDivisivel(int a, int b){
+int e_divisivel(int a, int b){
 	if(a % b){
 		return 0;
 	}else{
